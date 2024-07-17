@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+
+My name is Laura Bashor and I completed my PhD in Microbiology in the VandeWoude Lab at Colorado State University in August 2024. My dissertation focused on SARS-CoV-2 evolution following cross-species transmission, and I'm broadly interested in infectious diseases, one health, genomics & bioinformatics approaches, and data management & visualization.
 
 <!--
 **laurabashor/laurabashor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
